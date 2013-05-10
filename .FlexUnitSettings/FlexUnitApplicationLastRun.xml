@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="SkateLib">
+<testsuite name="org.component:TestText" type="testsuiteclass"/>
+<testsuite name="org.basic:TestNumber" type="testsuiteclass"/>
+<testsuite name="org.component:TestStrokeColor" type="testsuiteclass"/>
+<testsuite name="org.basic:TestMath" type="testsuiteclass"/>
+<testsuite name="org.domain:TestContents" type="testsuiteclass"/>
+<testsuite name="org.main:TestTrailer" type="testsuiteclass"/>
+<testsuite name="org.component:TestPNGImage" type="testsuiteclass"/>
+<testsuite name="org.font:TestFontWidthsStore" type="testsuiteclass"/>
+<testsuite name="org.basic:TestByteArray" type="testsuiteclass"/>
+<testsuite name="org.main:TestPdfObjectsCreator" type="testsuiteclass"/>
+<testsuite name="org.basic:TestArrayCollection" type="testsuiteclass"/>
+<testsuite name="org.component:TestPolygon" type="testsuiteclass"/>
+<testsuite name="org.component:TestSegment" type="testsuiteclass"/>
+<testsuite name="org.component:TestStrokeWidth" type="testsuiteclass"/>
+<testsuite name="org.facade.template:TestCmmPageTemplate" type="testsuiteclass"/>
+<testsuite name="org.facade:TestControlCenter" type="testsuiteclass"/>
+<testsuite name="org.main:TestWriter" type="testsuiteclass"/>
+<testsuite name="org.domain:TestResources" type="testsuiteclass"/>
+<testsuite name="org.component:TestWrapTextContent" type="testsuiteclass"/>
+<testsuite name="org.domain:TestRgbColor" type="testsuiteclass"/>
+<testsuite name="org.util:TestObjectNumberMaker" type="testsuiteclass"/>
+<testsuite name="org.basic:TestXml" type="testsuiteclass"/>
+<testsuite name="org.component:TestLinkArea" type="testsuiteclass"/>
+<testsuite name="org.basic:TestObject" type="testsuiteclass"/>
+<testsuite name="app:TestFontFile" type="testsuiteclass"/>
+<testsuite name="org.component:TestWrapTextBorder" type="testsuiteclass"/>
+<testsuite name="org.component:TestRectangle" type="testsuiteclass"/>
+<testsuite name="org.component:TestFilledColor" type="testsuiteclass"/>
+<testsuite name="org.component:TestRectangleTextContent" type="testsuiteclass"/>
+<testsuite name="org.domain:TestImageXObject" type="testsuiteclass"/>
+<testsuite name="org.basic:TestString" type="testsuiteclass"/>
+<testsuite name="org.basic:TestArray" type="testsuiteclass"/>
+<testsuite name="org.basic:TestChar" type="testsuiteclass"/>
+<testsuite name="org.domain:TestPage" type="testsuiteclass"/>
+<testsuite name="org.component:TestRectangleText" type="testsuiteclass"/>
+<testsuite name="org.util:TestStringTool" type="testsuiteclass"/>
+<testsuite name="org.domain:TestPages" type="testsuiteclass"/>
+<testsuite name="org.util:TestWrapStringsMaker" type="testsuiteclass"/>
+<testsuite name="org.facility:TestImageLocator" type="testsuiteclass"/>
+<testsuite name="org.main:TestDocument" type="testsuiteclass"/>
+</testsuite>
+<portNumber value="8765" />
+</testrun>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is an auto generated file and is not intended for modification. -->
+
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+			   xmlns:s="library://ns.adobe.com/flex/spark"
+			   xmlns:mx="library://ns.adobe.com/flex/mx"
+			   xmlns:flexui="flexunit.flexui.*"
+			   minWidth="955" minHeight="600" creationComplete="onCreationComplete()">
+	<fx:Script>
+		<![CDATA[
+			import org.main.TestDocument;
+			import org.facility.TestImageLocator;
+			import org.util.TestWrapStringsMaker;
+			import org.domain.TestPages;
+			import org.util.TestStringTool;
+			import org.component.TestRectangleText;
+			import org.domain.TestPage;
+			import org.basic.TestChar;
+			import org.basic.TestArray;
+			import org.basic.TestString;
+			import org.domain.TestImageXObject;
+			import org.component.TestRectangleTextContent;
+			import org.component.TestFilledColor;
+			import org.component.TestRectangle;
+			import org.component.TestWrapTextBorder;
+			import app.TestFontFile;
+			import org.basic.TestObject;
+			import org.component.TestLinkArea;
+			import org.basic.TestXml;
+			import org.util.TestObjectNumberMaker;
+			import org.domain.TestRgbColor;
+			import org.component.TestWrapTextContent;
+			import org.domain.TestResources;
+			import org.main.TestWriter;
+			import org.facade.TestControlCenter;
+			import org.facade.template.TestCmmPageTemplate;
+			import org.component.TestStrokeWidth;
+			import org.component.TestSegment;
+			import org.component.TestPolygon;
+			import org.basic.TestArrayCollection;
+			import org.main.TestPdfObjectsCreator;
+			import org.basic.TestByteArray;
+			import org.font.TestFontWidthsStore;
+			import org.component.TestPNGImage;
+			import org.main.TestTrailer;
+			import org.domain.TestContents;
+			import org.basic.TestMath;
+			import org.component.TestStrokeColor;
+			import org.basic.TestNumber;
+			import org.component.TestText;
+			
+			public function currentRunTestSuite():Array
+			{
+				var testsToRun:Array = new Array();
+				testsToRun.push(org.component.TestText);
+				testsToRun.push(org.basic.TestNumber);
+				testsToRun.push(org.component.TestStrokeColor);
+				testsToRun.push(org.basic.TestMath);
+				testsToRun.push(org.domain.TestContents);
+				testsToRun.push(org.main.TestTrailer);
+				testsToRun.push(org.component.TestPNGImage);
+				testsToRun.push(org.font.TestFontWidthsStore);
+				testsToRun.push(org.basic.TestByteArray);
+				testsToRun.push(org.main.TestPdfObjectsCreator);
+				testsToRun.push(org.basic.TestArrayCollection);
+				testsToRun.push(org.component.TestPolygon);
+				testsToRun.push(org.component.TestSegment);
+				testsToRun.push(org.component.TestStrokeWidth);
+				testsToRun.push(org.facade.template.TestCmmPageTemplate);
+				testsToRun.push(org.facade.TestControlCenter);
+				testsToRun.push(org.main.TestWriter);
+				testsToRun.push(org.domain.TestResources);
+				testsToRun.push(org.component.TestWrapTextContent);
+				testsToRun.push(org.domain.TestRgbColor);
+				testsToRun.push(org.util.TestObjectNumberMaker);
+				testsToRun.push(org.basic.TestXml);
+				testsToRun.push(org.component.TestLinkArea);
+				testsToRun.push(org.basic.TestObject);
+				testsToRun.push(app.TestFontFile);
+				testsToRun.push(org.component.TestWrapTextBorder);
+				testsToRun.push(org.component.TestRectangle);
+				testsToRun.push(org.component.TestFilledColor);
+				testsToRun.push(org.component.TestRectangleTextContent);
+				testsToRun.push(org.domain.TestImageXObject);
+				testsToRun.push(org.basic.TestString);
+				testsToRun.push(org.basic.TestArray);
+				testsToRun.push(org.basic.TestChar);
+				testsToRun.push(org.domain.TestPage);
+				testsToRun.push(org.component.TestRectangleText);
+				testsToRun.push(org.util.TestStringTool);
+				testsToRun.push(org.domain.TestPages);
+				testsToRun.push(org.util.TestWrapStringsMaker);
+				testsToRun.push(org.facility.TestImageLocator);
+				testsToRun.push(org.main.TestDocument);
+				return testsToRun;
+			}
+			
+			
+			private function onCreationComplete():void
+			{
+				testRunner.runWithFlexUnit4Runner(currentRunTestSuite(), "SkateLib");
+			}
+			
+		]]>
+	</fx:Script>
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	<flexui:FlexUnitTestRunnerUI id="testRunner" portNumber="8765">
+	</flexui:FlexUnitTestRunnerUI>
+</s:Application>

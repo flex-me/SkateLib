@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="SkateLib">
+<testsuite name="app:TestFontFile" type="testcaseclass"/>
+<testsuite name="org.basic:TestArray" type="testcaseclass"/>
+<testsuite name="org.basic:TestArrayCollection" type="testcaseclass"/>
+<testsuite name="org.basic:TestByteArray" type="testcaseclass"/>
+<testsuite name="org.basic:TestChar" type="testcaseclass"/>
+<testsuite name="org.basic:TestMath" type="testcaseclass"/>
+<testsuite name="org.basic:TestNumber" type="testcaseclass"/>
+<testsuite name="org.basic:TestObject" type="testcaseclass"/>
+<testsuite name="org.basic:TestString" type="testcaseclass"/>
+<testsuite name="org.basic:TestXml" type="testcaseclass"/>
+<testsuite name="org.component:TestFilledColor" type="testcaseclass"/>
+<testsuite name="org.component:TestLinkArea" type="testcaseclass"/>
+<testsuite name="org.component:TestPNGImage" type="testcaseclass"/>
+<testsuite name="org.component:TestPolygon" type="testcaseclass"/>
+<testsuite name="org.component:TestRectangle" type="testcaseclass"/>
+<testsuite name="org.component:TestRectangleText" type="testcaseclass"/>
+<testsuite name="org.component:TestRectangleTextContent" type="testcaseclass"/>
+<testsuite name="org.component:TestSegment" type="testcaseclass"/>
+<testsuite name="org.component:TestStrokeColor" type="testcaseclass"/>
+<testsuite name="org.component:TestStrokeWidth" type="testcaseclass"/>
+<testsuite name="org.component:TestText" type="testcaseclass"/>
+<testsuite name="org.component:TestWrapTextBorder" type="testcaseclass"/>
+<testsuite name="org.component:TestWrapTextContent" type="testcaseclass"/>
+<testsuite name="org.domain:TestContents" type="testcaseclass"/>
+<testsuite name="org.domain:TestImageXObject" type="testcaseclass"/>
+<testsuite name="org.domain:TestPage" type="testcaseclass"/>
+<testsuite name="org.domain:TestPages" type="testcaseclass"/>
+<testsuite name="org.domain:TestResources" type="testcaseclass"/>
+<testsuite name="org.domain:TestRgbColor" type="testcaseclass"/>
+<testsuite name="org.facade:TestControlCenter" type="testcaseclass"/>
+<testsuite name="org.facade.template:TestCmmPageTemplate" type="testcaseclass"/>
+<testsuite name="org.facility:TestImageLocator" type="testcaseclass"/>
+<testsuite name="org.font:TestFontWidthsStore" type="testcaseclass"/>
+<testsuite name="org.main:TestDocument" type="testcaseclass"/>
+<testsuite name="org.main:TestPdfObjectsCreator" type="testcaseclass"/>
+<testsuite name="org.main:TestTrailer" type="testcaseclass"/>
+<testsuite name="org.main:TestWriter" type="testcaseclass"/>
+<testsuite name="org.util:TestObjectNumberMaker" type="testcaseclass"/>
+<testsuite name="org.util:TestStringTool" type="testcaseclass"/>
+<testsuite name="org.util:TestWrapStringsMaker" type="testcaseclass"/>
+</testsuite>
+<portNumber value="8765" />
+</testrun>
